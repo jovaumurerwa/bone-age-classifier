@@ -45,6 +45,8 @@ Python · TensorFlow / Keras · MobileNetV2 · Streamlit · Pillow · NumPy · P
 
 ## Run it locally
 
+Requires **Python 3.11 or newer** (tested on 3.12).
+
 ```bash
 git clone https://github.com/jovaumurerwa/bone-age-classifier.git
 cd bone-age-classifier
