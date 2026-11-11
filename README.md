@@ -23,16 +23,6 @@ Doctors estimate a child's "bone age" from hand X-rays to spot growth disorders.
 | 3 | 132–156 months |
 | 4 | over 156 months |
 
-## Results
-
-<!-- TODO: fill in with your real numbers from the training notebook, then delete this line -->
-| Metric | Value |
-|---|---|
-| Validation accuracy | TODO |
-| Macro F1 | TODO |
-
-<!-- TODO: add your confusion matrix image: docs/confusion_matrix.png -->
-
 ## Security and privacy
 
 Medical images are sensitive, so the app is built to handle them carefully:
